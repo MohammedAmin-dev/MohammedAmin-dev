@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Muhammad Amin 👋🇪🇹
 
-<!--
-**MohammedAmin-dev/MohammedAmin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Web Developer from Ethiopia
 
-Here are some ideas to get you started:
+🔥 Currently building: **Code With Aminu** — Web Dev Learning Platform  
+💻 Skills: HTML | CSS | JavaScript | Firebase | PHP | Python  
+🌱 Learning: Advanced Firebase, System Design  
+📍 Location: Dessie, Ethiopia  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 My Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| Code With Aminu | Web Dev Learning Platform | HTML, CSS, JS, Firebase |
+
+---
+
+### 📫 Contact Me
+- Telegram: [@mameamin1](https://t.me/mameamin1)
+- TikTok: [@mame_amin](https://www.tiktok.com/@mame_amin)
+- Website: [codewithaminu.netlify.app](https://codewithaminu.netlify.app)
