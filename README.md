@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Amin 👋🇪🇹
+# Hi, I'm Mohammed Amin 👋🇪🇹
 
 ### Full Stack Web Developer from Ethiopia
 
